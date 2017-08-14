@@ -11,8 +11,8 @@ $(call inherit-product, device/xiaomi/tiffany/device_tiffany.mk)
 PRODUCT_DEVICE := tiffany
 PRODUCT_NAME := cm_tiffany
 PRODUCT_BRAND := xiaomi
-PRODUCT_MODEL := tiffany
-PRODUCT_MANUFACTURER := xiaomi
+PRODUCT_MODEL := MI 5X
+PRODUCT_MANUFACTURER := Xiaomi
 
 #cofface config
 COFFACE_PRODUCT_DEVICE := tiffany
